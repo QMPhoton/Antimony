@@ -1,3 +1,3 @@
 # Antimony-
-The guide told me to select the last offer, I don't know why but thus I created this one as the substitute of 「antimony」
+this is my first Github Repository, it contains my early(present) works or ideas.
 Now I've learned how to use branch and trying to test commit messages.
